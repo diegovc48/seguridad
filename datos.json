@@ -1,0 +1,30 @@
+[
+    {
+        "usuario": "dumar",
+        "password": "123"
+    },
+    {
+        "usuario": "yo",
+        "password": "123"
+    },
+    {
+        "usuario": "joan",
+        "password": "123456789"
+    },
+    {
+        "usuario": "joan@gmail.com",
+        "password": "12345"
+    },
+    {
+        "usuario": "nicolas@uts.edu.co",
+        "password": "123456"
+    },
+    {
+        "usuario": "simales@uts.edu.co",
+        "password": "123"
+    },
+    {
+        "usuario": "vaneesa@gmail.com",
+        "password": "123"
+    }
+]
